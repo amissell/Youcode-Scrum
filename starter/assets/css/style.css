@@ -1,0 +1,31 @@
+.pace {
+    display: none;
+}
+
+.main-style {
+    min-height: 100vh;
+    background: url(../img/cover/cover-scrum-board.png) no-repeat fixed;
+    background-size: 360px;
+    background-position: right bottom;
+}
+
+
+.display-bord{
+    position: relative;
+    bottom: 700px;
+}
+
+
+
+/* #modal-task {
+    position: absolute;
+    top: 0;
+    left:40% ;
+} */
+/* 
+.modal-content {
+    display: none;
+}
+.modal-content.active{
+    display: flex;
+} */
